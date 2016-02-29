@@ -1,11 +1,11 @@
 {
-  "name": "Trump Reactions",
-  "short_name": "Trump Reactions",
+  "name": "LungTuu Reactions",
+  "short_name": "LungTuu Reactions",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Replaces emojis in Facebook Reactions by Donald Trump pictures.",
-  "homepage_url": "https://francoisgrante.com",
-  "default_locale": "en",
+  "description": "Replaces emojis in Facebook Reactions by General Prayut Chan-O-Cha (LungTuu) pictures.",
+  "homepage_url": "https://www.blognone.com/node/78468#new",
+  "default_locale": "th",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",
