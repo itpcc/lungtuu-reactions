@@ -6,7 +6,9 @@ Replaces emojis in Facebook Reactions by general Prayut Chan-O-Cha (LungTuu) pic
 P.S. (for Thai)
 - ผมหารูปท่านประยุทธ์ชูนิ้วโป้งไม่ได้จริงๆ นะฮะ ขอโทษด้วย
 - ถ้าผมหายไปนาน รบกวนซื้อแกงเขียวหวานไปฝากด้วยนะฮะ ;w;
-= Credit
+ 
+
+## Credit
 http://news.voicetv.co.th/thailand/265773.html
 http://www.naewna.com/politic/138927
 https://www.youtube.com/watch?v=mWfnFPugyO8
