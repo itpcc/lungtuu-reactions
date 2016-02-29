@@ -3,7 +3,7 @@ Replaces emojis in Facebook Reactions by general Prayut Chan-O-Cha (LungTuu) pic
 
 ![LungTuu Reactions screenshot](https://i.imgur.com/LvM51q2.png)
 
-P.S. (for Thai)
+## P.S. (for Thai)
 - ผมหารูปท่านประยุทธ์ชูนิ้วโป้งไม่ได้จริงๆ นะฮะ ขอโทษด้วย
 - ถ้าผมหายไปนาน รบกวนซื้อแกงเขียวหวานไปฝากด้วยนะฮะ ;w;
  
