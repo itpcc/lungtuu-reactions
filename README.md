@@ -1,4 +1,4 @@
-# Trump Reactions
-Replaces emojis in Facebook Reactions by Donald Trump pictures.
+# LungTuu Reactions
+Replaces emojis in Facebook Reactions by general Prayut Chan-O-Cha (LungTuu) pictures.
 
-![Trump Reactions screenshot](https://s3-eu-west-1.amazonaws.com/fgrante/trump_reaction_screenshot.png)
+![LungTuu Reactions screenshot](https://i.imgur.com/LvM51q2.png)
